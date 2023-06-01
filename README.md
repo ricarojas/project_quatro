@@ -5,7 +5,7 @@
 ### Dataset BCCD
 BCCD from here : https://github.com/Shenggan/BCCD_Dataset
 This was found using Kaggle
-Images are .jpg and they have associated annotation files which has also been converted to a .csv to read into a dataframe.
+Images are .jpg and they have associated annotation files which has also been converted to a .csv to make reading them into a dataframe easier.
 
 
 ### Images
